@@ -1,6 +1,6 @@
 {
   "name": "another-electron",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "electron app, the third time",
   "main": "main.js",
   "repository": {
