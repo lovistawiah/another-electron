@@ -1,4 +1,4 @@
-require("dotenv").config()
+require("update-electron-app")()
 const { app, BrowserWindow, ipcMain } = require('electron')
 if (require("electron-squirrel-startup")) app.quit()
 const path = require('path')

@@ -1,6 +1,6 @@
 {
   "name": "another-electron",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "electron app, the third time",
   "main": "main.js",
   "repository": {
@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "dotenv": "^16.0.3",
-    "electron-squirrel-startup": "^1.0.0"
+    "electron-squirrel-startup": "^1.0.0",
+    "update-electron-app": "^2.0.1"
   }
 }
