@@ -4,3 +4,4 @@ cert.pfx
 certificate.crt
 private.key
 out/
+.env
