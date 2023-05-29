@@ -1,0 +1,6 @@
+node_modules
+generate_certificate.sh
+cert.pfx
+certificate.crt
+private.key
+out/
